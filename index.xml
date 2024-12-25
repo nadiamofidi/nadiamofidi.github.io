@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nadia Mofidi</title>
+    <link>https://nadiamofidi.com/</link>
+    <description>Recent content on Nadia Mofidi</description>
+    <image>
+      <title>Nadia Mofidi</title>
+      <url>https://nadiamofidi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nadiamofidi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.123.7</generator>
+    <language>en-uk</language>
+    <atom:link href="https://nadiamofidi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/about/</guid>
+      <description>About I live life with energy and enthusiasm, finding joy in dancing every day whenever the moment allows. Alongside my passion for life, I am a Technical Director at Hydrock&amp;rsquo;s Fire Safety Division, where I lead research and innovation in fire safety and efforts to enhance engineering workflows, improve service delivery, and foster technical excellence having 15+ years of experience in industry. I focus on driving innovation and ensuring the consistent delivery of high-quality outcomes.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/contact/</guid>
+      <description>Contact </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/cv/</guid>
+      <description>CV You can download my CV here:
+Previous Next &amp;nbsp; &amp;nbsp; / [pdf] View the PDF file here. </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/dancing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/dancing/</guid>
+      <description>Dancing West Coast Swing In action </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/research/</guid>
+      <description>Research Introduction and Experience My academic research journey began in 2007 with a project modelling a small jet engine from air intake to nozzle using Simulink for testing purposes. By applying the first principles of fluid dynamics and insights from my aerodynamics course, I developed a framework to predict changes in air pressure and temperature, demonstrating an early aptitude for bridging theory and practice. In 2012, I pursued my interest in Watermist systems, a sustainable fire suppression technology.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/teaching/</guid>
+      <description>Teaching Teaching has been a lifelong passion, rooted in my upbringing as the child of two dedicated teachers. From an early age, I was immersed in conversations about teaching methodologies, often comparing my learning experiences and teachers’ approaches with the practices my parents shared. This constant exposure cultivated my observant nature, allowing me to identify effective teaching techniques and the importance of tailoring methods to individual needs.
+My teaching journey began at the age of 10, tutoring mathematics to peers and younger classes.</description>
+    </item>
+  </channel>
+</rss>
