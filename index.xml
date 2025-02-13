@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nadia Mofidi</title>
+    <link>https://nadiamofidi.com/</link>
+    <description>Recent content on Nadia Mofidi</description>
+    <image>
+      <title>Nadia Mofidi</title>
+      <url>https://nadiamofidi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://nadiamofidi.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.143.1</generator>
+    <language>en-uk</language>
+    <atom:link href="https://nadiamofidi.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;I live life with energy and enthusiasm, finding joy in dancing every day whenever the moment allows. Alongside my passion for life, I am a researcher in Wildfire, WUI, and Fire Safety at University College London having 15+ years of experience in industry. My passion is focused on
+driving innovation and ensuring the consistent delivery of high-quality outcomes.
+Throughout my career, I have led team transformations, particularly in scaling teams and tackling larger, more complex projects. I
+introduced strategic initiatives that streamlined operations, resulting in project quality.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/contact/</guid>
+      <description>&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;
+&lt;p&gt;Office: Civil, Environmental &amp;amp; Geomatic Engineering Department, Chadwick Building, Gower St, London WC1E 6BT
+E-mail: &lt;a href=&#34;mailto:nadia.mofidi.21@ucl.ac.uk&#34;&gt;nadia.mofidi.21@ucl.ac.uk&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/cv/</guid>
+      <description>&lt;h2 id=&#34;cv&#34;&gt;CV&lt;/h2&gt;
+&lt;p&gt;You can download my CV here:&lt;/p&gt;
+&lt;script type=&#34;text/javascript&#34; src= &#39;/js/pdf-js/build/pdf.js&#39;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-3ed8e136&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-3ed8e136&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-3ed8e136&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;https://nadiamofidi.com/images/CV_Mofidi_Nadia.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-3ed8e136&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-3ed8e136&#34;&gt;
+    &lt;button id=&#34;pdf-prev-3ed8e136&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-3ed8e136&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-3ed8e136&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-3ed8e136&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-3ed8e136&#34; href=&#34;https://nadiamofidi.com/images/CV_Mofidi_Nadia.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-3ed8e136&#34; href=&#34;https://nadiamofidi.com/images/CV_Mofidi_Nadia.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;\/images\/CV_Mofidi_Nadia.pdf&#39;;
+
+    var hidePaginator = &#34;&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/nadiamofidi.com\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-3ed8e136&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-3ed8e136&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-3ed8e136&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-3ed8e136&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-3ed8e136&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-3ed8e136&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-3ed8e136&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/dancing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/dancing/</guid>
+      <description>&lt;h2 id=&#34;dancing&#34;&gt;Dancing&lt;/h2&gt;
+&lt;h3 id=&#34;west-coast-swing&#34;&gt;West Coast Swing&lt;/h3&gt;
+&lt;h3 id=&#34;in-action&#34;&gt;In action&lt;/h3&gt;
+&lt;p&gt;Dancing integrates movement, rhythm, and social interaction, engaging multiple brain regions to enhance coordination, memory, and emotional expression—sculpting the brain as much as the body (Burzynska, A. Z., et al. (2017)).
+&lt;iframe id=&#34;ytplayer&#34; type=&#34;text/html&#34; width=&#34;640&#34; height=&#34;360&#34;
+  src=&#34;https://www.youtube.com/embed/UZDAf1z21oI?autoplay=0&amp;origin=https://nadiamofidi.com&#34;
+  frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/research/</guid>
+      <description>&lt;h2 id=&#34;research&#34;&gt;Research&lt;/h2&gt;
+&lt;h3 id=&#34;introduction-and-experience&#34;&gt;Introduction and Experience&lt;/h3&gt;
+&lt;p&gt;My academic research journey began in 2007 with a project modelling a small jet engine from air intake to nozzle using Simulink for testing purposes. By applying the first principles of fluid dynamics and insights from my aerodynamics course, I developed a framework to predict changes in air pressure and temperature, demonstrating an early aptitude for bridging theory and practice. In 2012, I pursued my interest in Watermist systems, a sustainable fire suppression technology. I modelled a few scenarios by self-teaching the use of Fire Dynamic Simulator (FDS) and I presented my findings at European conferences, expanding my research network and paving the way for my master’s degree. Over the past decade, I have led and contributed to over 10 research projects and supervised MSc students in fire science and combustion laboratories. A key achievement was designing, procuring, and commissioning a mobile FTIR package integrated with the Fire Propagation Apparatus (FPA), significantly advancing experimental capabilities and deepening our understanding of combustion species in the Fire Science lab in Worcester Polytechnic Institute (WPI).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://nadiamofidi.com/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nadiamofidi.com/teaching/</guid>
+      <description>&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;p&gt;Teaching has been a lifelong passion, rooted in my upbringing as the child of two dedicated teachers. From an early age, I was immersed in conversations about teaching methodologies, often comparing my learning experiences and teachers’ approaches with the practices my parents shared. This constant exposure cultivated my observant nature, allowing me to identify effective teaching techniques and the importance of tailoring methods to individual needs.&lt;/p&gt;
+&lt;p&gt;My teaching journey began at the age of 10, tutoring mathematics to peers and younger classes. Later, as a teenager, I actively mentored younger students in high school, guiding them in mathematics, physics, and chemistry, as well as their overall learning pathways, helping them develop strategies to succeed in their studies. During my postgraduate years, I added a pedagogical basis to this passion by enrolling in scientific teaching and inclusivity courses. These courses helped me to enhance my ability to engage diverse learners and create an inclusive classroom environment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
